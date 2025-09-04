@@ -4,7 +4,7 @@ Este projeto propõe a criação de interfaces visuais em React, utilizando como
 
 ## 🎯 Sobre o Projeto
 
-O objetivo principal é desenvolver uma aplicação web focada no tema de **Doadores Pessoa Física**. O trabalho é colaborativo, com cada membro da equipe responsável pela criação de 3 telas específicas, baseadas nos protótipos enviados pelo Product Owner (PO).
+O objetivo principal é desenvolver uma aplicação web focada no tema de **Doadores Pessoa Física**. O trabalho é colaborativo, com cada membro da equipe responsável pela criação de 3 telas específicas, baseadas nos protótipos enviados pelo PO (Evandro Rodrigues).
 
 ### Entregáveis
 - **18 Telas Funcionais**: Ao final do projeto, a aplicação deverá contar com um total de 18 telas desenvolvidas em React.

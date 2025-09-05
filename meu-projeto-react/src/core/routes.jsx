@@ -6,7 +6,7 @@ function AppRoutes() {
   return (
     <Routes>
       <Route path="/" element={<HomePage />} />
-      {/* Adicione novas rotas aqui */}
+      {/* Ex: <Route path="/login" element={<LoginPage />} /> */}
     </Routes>
   );
 }
